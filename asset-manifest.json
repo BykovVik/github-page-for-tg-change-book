@@ -1,20 +1,18 @@
 {
   "files": {
     "main.css": "/github-page-for-tg-change-book/static/css/main.47b0b1c7.css",
-    "main.js": "/github-page-for-tg-change-book/static/js/main.0e948b7b.js",
+    "main.js": "/github-page-for-tg-change-book/static/js/main.b6244b7b.js",
     "static/media/coin_o.png": "/github-page-for-tg-change-book/static/media/coin_o.3a3341e3fedae87e31bc.png",
     "static/media/coin_p.png": "/github-page-for-tg-change-book/static/media/coin_p.1cf845423f7f646e6132.png",
     "static/media/KONFUCF_.ttf": "/github-page-for-tg-change-book/static/media/KONFUCF_.fe7e25767183a1e1136c.ttf",
-    "static/media/Fingerprint.png": "/github-page-for-tg-change-book/static/media/Fingerprint.2c08e727be4746a712dc.png",
-    "static/media/two_line.png": "/github-page-for-tg-change-book/static/media/two_line.4a2397b5bea2e4fa7d89.png",
-    "static/media/one_line.png": "/github-page-for-tg-change-book/static/media/one_line.50fbb680e7a719bcf014.png",
-    "static/media/klipartz.png": "/github-page-for-tg-change-book/static/media/klipartz.a0dbbadf5ff94f49abb4.png",
+    "static/media/Fingerprint.png": "/github-page-for-tg-change-book/static/media/Fingerprint.ca7e5dc5f6d8e86414dc.png",
+    "static/media/klipartz.png": "/github-page-for-tg-change-book/static/media/klipartz.41152deeb717e38388ad.png",
     "index.html": "/github-page-for-tg-change-book/index.html",
     "main.47b0b1c7.css.map": "/github-page-for-tg-change-book/static/css/main.47b0b1c7.css.map",
-    "main.0e948b7b.js.map": "/github-page-for-tg-change-book/static/js/main.0e948b7b.js.map"
+    "main.b6244b7b.js.map": "/github-page-for-tg-change-book/static/js/main.b6244b7b.js.map"
   },
   "entrypoints": [
     "static/css/main.47b0b1c7.css",
-    "static/js/main.0e948b7b.js"
+    "static/js/main.b6244b7b.js"
   ]
 }
