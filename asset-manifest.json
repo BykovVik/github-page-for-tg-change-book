@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/github-page-for-tg-change-book/static/css/main.6227ddd1.css",
-    "main.js": "/github-page-for-tg-change-book/static/js/main.c49782e0.js",
+    "main.js": "/github-page-for-tg-change-book/static/js/main.4a5ab60c.js",
     "static/media/coin_o.png": "/github-page-for-tg-change-book/static/media/coin_o.3a3341e3fedae87e31bc.png",
     "static/media/coin_p.png": "/github-page-for-tg-change-book/static/media/coin_p.1cf845423f7f646e6132.png",
     "static/media/konfucf.ttf": "/github-page-for-tg-change-book/static/media/konfucf.8262f4416eaf1dfd8b31.ttf",
     "static/media/klipartz.png": "/github-page-for-tg-change-book/static/media/klipartz.41152deeb717e38388ad.png",
     "index.html": "/github-page-for-tg-change-book/index.html",
     "main.6227ddd1.css.map": "/github-page-for-tg-change-book/static/css/main.6227ddd1.css.map",
-    "main.c49782e0.js.map": "/github-page-for-tg-change-book/static/js/main.c49782e0.js.map"
+    "main.4a5ab60c.js.map": "/github-page-for-tg-change-book/static/js/main.4a5ab60c.js.map"
   },
   "entrypoints": [
     "static/css/main.6227ddd1.css",
-    "static/js/main.c49782e0.js"
+    "static/js/main.4a5ab60c.js"
   ]
 }
